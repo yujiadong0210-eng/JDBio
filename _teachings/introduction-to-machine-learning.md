@@ -1,7 +1,7 @@
 ---
 layout: course
-title: RL for Intelligent Decision Making in CPS
-description: Graduate course on reinforcement learning methods for intelligent decision-making in cyber-physical systems.
+title: Reinforcement Learning for Intelligent Decision Making
+description: Graduate course covering reinforcement learning from core foundations to advanced RL and MARL.
 instructor: Jiadong Yu
 year: 2024
 term: Fall
@@ -12,13 +12,13 @@ course_id: iota-5201
 
 ## Course Overview
 
-This MPhil/PhD course introduces reinforcement learning for intelligent decision-making in cyber-physical systems. It connects sequential decision theory with practical problems in edge intelligence, networked control, and autonomous systems.
+This MPhil/PhD course systematically covers reinforcement learning from fundamental concepts to advanced methods, with an emphasis on practical implementation and research-oriented understanding.
 
+- Multi-armed bandits and decision-making foundations
 - Markov decision processes and value functions
-- Model-free reinforcement learning and policy optimization
-- Multi-agent reinforcement learning foundations
-- Intelligent decision-making for cyber-physical systems
-- Research-oriented discussion of recent RL applications in IoT and edge systems
+- Model-free and model-based reinforcement learning
+- Deep reinforcement learning
+- Advanced RL and multi-agent reinforcement learning
 
 ## Offering
 
@@ -28,12 +28,13 @@ This MPhil/PhD course introduces reinforcement learning for intelligent decision
 
 ## Topics
 
-- Reinforcement learning for sequential decision-making
-- Exploration and exploitation
-- Value-based and policy-based methods
-- Multi-agent coordination and communication
-- CPS applications in networking, digital twins, and intelligent systems
+- Multi-armed bandits and sequential decision-making
+- Monte Carlo, temporal difference learning, Q-learning, and SARSA
+- Policy gradient and actor-critic methods
+- Deep Q-learning, PPO, TRPO, and DDPG
+- RLHF and multi-agent reinforcement learning
+- Practical coding and application-driven RL study
 
 ## Teaching Focus
 
-The course emphasizes both theoretical grounding and research practice, helping graduate students connect modern RL methods with open problems in cyber-physical systems and intelligent infrastructure.
+The course moves from RL foundations to advanced RL and MARL, helping postgraduate students connect algorithmic understanding with implementation and research applications.

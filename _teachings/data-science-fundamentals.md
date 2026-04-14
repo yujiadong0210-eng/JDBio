@@ -1,7 +1,7 @@
 ---
 layout: course
 title: Applied Statistics
-description: Undergraduate course covering statistical foundations for data-driven analysis and decision-making.
+description: Undergraduate course on probability, inference, regression, and Bayesian thinking.
 instructor: Jiadong Yu
 year: 2025
 term: Fall / Spring
@@ -12,13 +12,13 @@ course_id: ufug-2104
 
 ## Course Overview
 
-This undergraduate course introduces core ideas in applied statistics for engineering and data-centric problem solving. It builds the mathematical and practical foundation students need for later work in machine learning, AI, and empirical research.
+This undergraduate course introduces the core ideas of probability and statistics for engineering and data-driven problem solving.
 
-- Probability foundations and random variables
-- Descriptive statistics and data interpretation
-- Statistical inference and hypothesis testing
-- Regression, correlation, and model-based analysis
-- Practical thinking for data-driven decision-making
+- Discrete random variables
+- Continuous random variables
+- Hypothesis testing
+- Linear regression
+- Bayesian inference
 
 ## Offerings
 
@@ -28,12 +28,13 @@ This undergraduate course introduces core ideas in applied statistics for engine
 
 ## Topics
 
-- Statistical thinking for real-world data
-- Experimental design and uncertainty
-- Inference, estimation, and testing
-- Linear models and interpretation
-- Foundations that support later AI and machine learning study
+- Basic concepts of probability and statistics
+- Discrete and continuous random variables
+- Statistical inference and hypothesis testing
+- Simple linear regression and practical applications
+- Introductory Bayesian inference
+- Data analysis and implementation with software tools
 
 ## Teaching Focus
 
-The course is designed to help undergraduate students build intuition for statistics while learning how to connect theory with practical quantitative analysis.
+The course is designed to help undergraduate students build intuition for uncertainty, inference, and data analysis while connecting statistical theory with practical applications.
