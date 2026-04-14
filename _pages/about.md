@@ -25,22 +25,16 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <style>
-  .post .profile {
-    position: relative;
-  }
-
   .post .profile .more-info {
-    position: absolute;
-    right: 0.35rem;
-    bottom: 0.35rem;
-    margin: 0;
+    margin-top: 0.45rem;
+    margin-bottom: 0;
     padding: 0;
     color: #9a9a9a;
     font-family: inherit;
     font-size: 0.72rem;
     line-height: 1.4;
     text-align: right;
-    max-width: 78%;
+    white-space: nowrap;
   }
 
   .post .profile .more-info p {
