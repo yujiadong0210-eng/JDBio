@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Journal and conference papers by Jiadong Yu.
 nav: true
-nav_order: 2
+nav_order: 5
 ---
 
 <style>

@@ -4,7 +4,7 @@ permalink: /group/
 title: Group
 description: Students and collaborators in the research group.
 nav: true
-nav_order: 7
+nav_order: 4
 ---
 
 <p class="jd-page-intro">This page introduces current students, visiting students, and alumni in the research group.</p>
