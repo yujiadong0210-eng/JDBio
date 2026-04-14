@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Grants
-permalink: /projects/
-description: Selected grants and research projects led by Jiadong Yu.
+permalink: /grants/
+description: Selected grants and funded research led by Jiadong Yu.
 nav: true
 nav_order: 3
 ---
@@ -65,7 +65,7 @@ nav_order: 3
   }
 </style>
 
-This page lists selected grants and funded research projects from my academic CV.
+This page lists selected grants and funded research from my academic CV.
 
 <div class="project-list">
   <div class="project-entry">
