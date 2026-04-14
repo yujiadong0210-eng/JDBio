@@ -4,7 +4,7 @@ Personal academic homepage for Jiadong Yu, built with Jekyll and the `al-folio` 
 
 Planned deployment URL:
 
-`https://yujiadong0210-eng.github.io/JDBio/`
+`https://jiadong-yu.github.io/Bio/`
 
 ## Local development
 
