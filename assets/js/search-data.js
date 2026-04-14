@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/JDBio/";
@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/JDBio/publications/";
           },
-        },{id: "nav-projects",
-          title: "Projects",
+        },{id: "nav-grants",
+          title: "Grants",
           description: "Selected grants and research projects led by Jiadong Yu.",
           section: "Navigation",
           handler: () => {
