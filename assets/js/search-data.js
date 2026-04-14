@@ -9,52 +9,42 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/Bio/";
     },
-  },
-  {
-    id: "nav-teaching",
-    title: "Teaching",
-    description: "Courses taught by Jiadong Yu at HKUST(GZ).",
-    section: "Navigation",
-    handler: () => {
-      window.location.href = "/Bio/teaching/";
-    },
-  },
-  {
-    id: "nav-grants",
-    title: "Grants",
-    description: "Selected grants and funded research led by Jiadong Yu.",
-    section: "Navigation",
-    handler: () => {
-      window.location.href = "/Bio/grants/";
-    },
-  },
-  {
-    id: "nav-services",
-    title: "Services",
-    description: "Professional services and academic activities by Jiadong Yu.",
-    section: "Navigation",
-    handler: () => {
-      window.location.href = "/Bio/services/";
-    },
-  },
-  {
-    id: "nav-group",
-    title: "Group",
-    description: "Students and collaborators in the research group.",
-    section: "Navigation",
-    handler: () => {
-      window.location.href = "/Bio/group/";
-    },
-  },
-  {
-    id: "nav-publications",
-    title: "Publications",
-    description: "Journal and conference papers by Jiadong Yu.",
-    section: "Navigation",
-    handler: () => {
-      window.location.href = "/Bio/publications/";
-    },
-  },{id: "post-a-post-with-plotly-js",
+  },{id: "nav-teaching",
+        title: "Teaching",
+        description: "Courses taught by Jiadong Yu at HKUST(GZ).",
+        section: "Navigation",
+        handler: () => {
+          window.location.href = "/Bio/teaching/";
+        },
+      },{id: "nav-grants",
+        title: "Grants",
+        description: "Selected grants and funded research led by Jiadong Yu.",
+        section: "Navigation",
+        handler: () => {
+          window.location.href = "/Bio/grants/";
+        },
+      },{id: "nav-services",
+        title: "Services",
+        description: "Professional services and academic activities by Jiadong Yu.",
+        section: "Navigation",
+        handler: () => {
+          window.location.href = "/Bio/services/";
+        },
+      },{id: "nav-group",
+        title: "Group",
+        description: "Students and collaborators in the research group.",
+        section: "Navigation",
+        handler: () => {
+          window.location.href = "/Bio/group/";
+        },
+      },{id: "nav-publications",
+        title: "Publications",
+        description: "Journal and conference papers by Jiadong Yu.",
+        section: "Navigation",
+        handler: () => {
+          window.location.href = "/Bio/publications/";
+        },
+      },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
