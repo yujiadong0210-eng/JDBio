@@ -1,28 +1,86 @@
 ---
-layout: profiles
+layout: page
 permalink: /people/
-title: people
-description: members of the lab or group
-nav: false
+title: People
+description: Students and collaborators in the research group.
+nav: true
 nav_order: 7
-
-profiles:
-  # if you want to include more than one profile, just replicate the following block
-  # and create one content file for each profile inside _pages/
-  - align: right
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
-  - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
-    image_circular: false # crops the image to make it circular
-    more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
 ---
+
+<p class="jd-page-intro">This page introduces current students, visiting students, and alumni in the research group.</p>
+
+<div class="jd-section-divider"><span>PhD Students</span></div>
+<div class="jd-person-grid">
+  <div class="jd-person-card">
+    <div class="jd-person-placeholder">Yulong Zhang</div>
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Mr. Yulong Zhang</h3>
+      <p class="jd-person-role">PhD Student · 2023-Present</p>
+    </div>
+  </div>
+
+  <div class="jd-person-card">
+    <img class="jd-person-photo" src="{{ '/assets/img/students/HaoXiong.jpeg' | relative_url }}" alt="Hao Xiong" />
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Mr. Hao Xiong</h3>
+      <p class="jd-person-role">PhD Student · 2023-Present</p>
+    </div>
+  </div>
+
+  <div class="jd-person-card">
+    <img class="jd-person-photo" src="{{ '/assets/img/students/ZiruZhang.jpeg' | relative_url }}" alt="Ziru Zhang" />
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Mr. Ziru Zhang</h3>
+      <p class="jd-person-role">PhD Student · 2024-Present</p>
+    </div>
+  </div>
+
+  <div class="jd-person-card">
+    <img class="jd-person-photo" src="{{ '/assets/img/students/JianingZheng.jpeg' | relative_url }}" alt="Jianing Zheng" />
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Ms. Jianing Zheng</h3>
+      <p class="jd-person-role">PhD Student · 2024-Present</p>
+    </div>
+  </div>
+
+  <div class="jd-person-card">
+    <img class="jd-person-photo" src="{{ '/assets/img/students/XulingZhang.jpeg' | relative_url }}" alt="Xuling Zhang" />
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Ms. Xuling Zhang</h3>
+      <p class="jd-person-role">PhD Student · 2024-Present</p>
+    </div>
+  </div>
+
+  <div class="jd-person-card">
+    <img class="jd-person-photo" src="{{ '/assets/img/students/XinrenZhang.jpeg' | relative_url }}" alt="Xinren Zhang" />
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Ms. Xinren Zhang</h3>
+      <p class="jd-person-role">PhD Student · 2025-Present</p>
+    </div>
+  </div>
+
+  <div class="jd-person-card">
+    <img class="jd-person-photo" src="{{ '/assets/img/students/JialeLi.jpeg' | relative_url }}" alt="Jiale Li" />
+    <div class="jd-person-body">
+      <h3 class="jd-person-name">Mr. Jiale Li</h3>
+      <p class="jd-person-role">PhD Student · 2025-Present</p>
+    </div>
+  </div>
+</div>
+
+<div class="jd-section-divider"><span>MPhil Students</span></div>
+<ul class="jd-simple-list">
+  <li>Guangzhi Zhu</li>
+</ul>
+
+<div class="jd-section-divider"><span>Visiting Students</span></div>
+<ul class="jd-simple-list">
+  <li>PhD: Nianfu Wang</li>
+  <li>Undergraduate: Yaoyin Zhang</li>
+</ul>
+
+<div class="jd-section-divider"><span>Alumni</span></div>
+<ul class="jd-simple-list">
+  <li>Mr. Chen Shang, PhD in University of Technology Sydney</li>
+  <li>Ms. Sixi Cheng, PhD in Singapore University of Technology and Design</li>
+</ul>
