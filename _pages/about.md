@@ -25,6 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 <style>
+  @media (min-width: 576px) {
+    .post .profile {
+      width: 27%;
+    }
+  }
+
   .post .profile .more-info {
     margin-top: 0.45rem;
     margin-bottom: 0;
