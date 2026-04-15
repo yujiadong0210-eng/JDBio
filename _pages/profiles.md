@@ -7,12 +7,13 @@ nav: true
 nav_order: 4
 ---
 
+<p class="jd-page-intro">Our research group is <a href="https://extend-lab.github.io/Page/" target="_blank" rel="noopener noreferrer">EXTEND Lab</a>.</p>
 <p class="jd-page-intro">This page introduces current students, visiting students, and alumni in the research group.</p>
 
 <div class="jd-section-divider"><span>PhD Students</span></div>
 <div class="jd-person-grid">
   <div class="jd-person-card">
-    <div class="jd-person-placeholder">Yulong Zhang</div>
+    <img class="jd-person-photo" src="{{ '/assets/img/students/YulongZhang.jpg' | relative_url }}" alt="Yulong Zhang" />
     <div class="jd-person-body">
       <h3 class="jd-person-name">Mr. Yulong Zhang</h3>
       <p class="jd-person-role">PhD Student · 2023-Present</p>
@@ -71,7 +72,7 @@ nav_order: 4
 <div class="jd-section-divider"><span>MPhil Students</span></div>
 <div class="jd-person-grid">
   <div class="jd-person-card">
-    <div class="jd-person-placeholder">Guangzhi Zhu</div>
+    <img class="jd-person-photo" src="{{ '/assets/img/students/GuangzhiZhu.jpg' | relative_url }}" alt="Guangzhi Zhu" />
     <div class="jd-person-body">
       <h3 class="jd-person-name">Mr. Guangzhi Zhu</h3>
       <p class="jd-person-role">MPhil Student</p>
@@ -82,7 +83,7 @@ nav_order: 4
 <div class="jd-section-divider"><span>Visiting Students</span></div>
 <div class="jd-person-grid">
   <div class="jd-person-card">
-    <div class="jd-person-placeholder">Nianfu Wang</div>
+    <img class="jd-person-photo" src="{{ '/assets/img/students/NianfuWang.jpg' | relative_url }}" alt="Nianfu Wang" />
     <div class="jd-person-body">
       <h3 class="jd-person-name">Mr. Nianfu Wang</h3>
       <p class="jd-person-role">Visiting Student · PhD from HIT(SZ) and Pengcheng Lab</p>
