@@ -78,5 +78,3 @@ latest_posts:
   <p>To apply, please submit the following in English: Motivation Letter, CV, and Academic Transcripts.</p>
   <p>Send your application to: <a href="mailto:jiadongyu@hkust-gz.edu.cn">jiadongyu@hkust-gz.edu.cn</a></p>
 </div>
-
-{% include visitor_map.liquid %}
