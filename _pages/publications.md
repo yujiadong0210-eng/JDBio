@@ -10,7 +10,7 @@ nav_order: 5
 <style>
   .pub-intro {
     margin-bottom: 1.2rem;
-    color: #505050;
+    color: var(--global-text-color-light);
     line-height: 1.8;
   }
 
@@ -29,7 +29,7 @@ nav_order: 5
     display: inline-block;
     min-width: 3.2rem;
     font-weight: 700;
-    color: #0f3d91;
+    color: var(--global-theme-color);
   }
 
   .pub-section {

@@ -9,7 +9,7 @@ last_name: Yu
 contact_note: >
   Institutional email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Assistant Professor at HKUST(GZ) working on reinforcement learning, multi-agent systems, edge intelligence, and wireless communications.
+  Assistant Professor in Internet of Things (IoT) Thrust, with a joint appointment in Artificial Intelligence (AI) Thrust, Information Hub, HKUST(GZ), working on reinforcement learning, multi-agent systems, edge intelligence, and wireless communications.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.

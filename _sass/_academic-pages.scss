@@ -1,6 +1,6 @@
 .jd-page-intro {
   margin-bottom: 1.25rem;
-  color: #505050;
+  color: var(--global-text-color-light);
   line-height: 1.8;
 }
 
@@ -15,11 +15,11 @@
   content: "";
   flex: 1;
   height: 1px;
-  background: #e6e6e6;
+  background: var(--global-divider-color);
 }
 
 .jd-section-divider span {
-  color: #c9c9c9;
+  color: var(--global-text-color-muted);
   font-size: 1.85rem;
   font-weight: 300;
   letter-spacing: 0.01em;
@@ -34,11 +34,11 @@
 
 .jd-card {
   padding: 1rem 1.15rem;
-  border: 1px solid #ededed;
-  border-left: 3px solid #d4d4d4;
+  border: 1px solid var(--global-card-border-color);
+  border-left: 3px solid var(--global-theme-color);
   border-radius: 0.6rem;
-  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.05);
-  background: #fff;
+  box-shadow: var(--global-card-shadow);
+  background: var(--global-card-bg-color);
 }
 
 .jd-card-title {
@@ -49,7 +49,7 @@
 
 .jd-card-meta {
   margin: 0.2rem 0;
-  color: #555;
+  color: var(--global-text-color-light);
   font-size: 0.96rem;
   line-height: 1.7;
 }
@@ -69,11 +69,11 @@
 }
 
 .jd-meta-tag.role {
-  color: #9a3412;
+  color: #d97706;
 }
 
 .jd-meta-tag.amount {
-  color: #166534;
+  color: #16a34a;
 }
 
 .jd-plain-block {
@@ -99,11 +99,11 @@
 }
 
 .jd-person-card {
-  border: 1px solid #ededed;
+  border: 1px solid var(--global-card-border-color);
   border-radius: 0.65rem;
   overflow: hidden;
-  background: #fff;
-  box-shadow: 0 8px 20px rgba(15, 23, 42, 0.05);
+  background: var(--global-card-bg-color);
+  box-shadow: var(--global-card-shadow);
 }
 
 .jd-person-photo {
@@ -111,7 +111,7 @@
   width: 100%;
   object-fit: cover;
   display: block;
-  background: #f8f8f8;
+  background: var(--global-surface-color);
 }
 
 .jd-person-body {
@@ -125,7 +125,7 @@
 
 .jd-person-role {
   margin: 0.35rem 0 0;
-  color: #666;
+  color: var(--global-text-color-light);
   font-size: 0.92rem;
   line-height: 1.6;
 }
@@ -135,10 +135,10 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  color: #777;
+  color: var(--global-text-color-light);
   font-size: 1.1rem;
   letter-spacing: 0.02em;
-  background: #fafafa;
+  background: var(--global-surface-color);
 }
 
 .jd-simple-list {
@@ -149,7 +149,7 @@
 
 .jd-simple-list li {
   padding: 0.5rem 0;
-  border-bottom: 1px solid #efefef;
+  border-bottom: 1px solid var(--global-divider-color);
   line-height: 1.75;
 }
 
