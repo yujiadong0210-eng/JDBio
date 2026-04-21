@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, Internet of Things (IoT) Thrust and Artificial Intelligence (AI) Thrust, Information Hub, The Hong Kong University of Science and Technology (Guangzhou)
+subtitle: "Assistant Professor, Internet of Things (IoT) Thrust and Artificial Intelligence (AI) Thrust,<br>Information Hub, The Hong Kong University of Science and Technology (Guangzhou)"
 
 profile:
   align: right
@@ -64,7 +64,7 @@ latest_posts:
 </style>
 
 <div class="jd-page-intro jd-plain-block">
-  I am currently serving as an Assistant Professor in Internet of Things (IoT) Thrust, with a joint appointment in Artificial Intelligence (AI) Thrust, Information Hub, Hong Kong University of Science and Technology (Guangzhou). I received my Ph.D. in Computer Science from Queen Mary University of London, United Kingdom, in 2021. In the same year, I served as a Teaching Fellow at the School of Electronic Engineering and Computer Science within the same university. Since November 2021, I have been with the Internet of Things Thrust at HKUST (Guangzhou), where I worked as a Post-Doctoral Research Fellow until 2023. In 2023, I was also a Visiting Research Fellow at the University of Cambridge, Department of Engineering.
+  I received my Ph.D. in Computer Science from Queen Mary University of London, United Kingdom, in 2021. In the same year, I served as a Teaching Fellow at the School of Electronic Engineering and Computer Science within the same university. Since November 2021, I have been with the Internet of Things Thrust at HKUST (Guangzhou), where I worked as a Post-Doctoral Research Fellow until 2023. In 2023, I was also a Visiting Research Fellow at the University of Cambridge, Department of Engineering.
 </div>
 
 <h2>Research and Service</h2>
